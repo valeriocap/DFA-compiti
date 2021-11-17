@@ -46,8 +46,8 @@ theme:
 
   palette:
     - scheme: default
-      primary: white
-      accent: red
+      primary: indigo
+      accent: teal
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
