@@ -10,6 +10,7 @@ title: "OpenDataSicilia Material for MkDocs repo: 1, 2 , 3 via"
 test inline equation $2+2=4$
 
 test new line equation
+
 $$K=\frac{1}{1}mv^2$$
 
 ---
