@@ -141,7 +141,7 @@ nav:
     - Home: index.md
 
     - Relazioni:
-        - Report-1: Installazione/insta1.md
+        - Index: Report/index.md
 
     - About:
         - OpenDataSicilia: ods.md
