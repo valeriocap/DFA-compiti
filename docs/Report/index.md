@@ -1,6 +1,4 @@
 ---
-hide:
-  - navigation
 og_image: immagineCondivisioneAssociataPagina.png
 ---
 
