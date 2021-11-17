@@ -1,4 +1,6 @@
 # Relazione di laboratorio: Energia cinetica di rotazione
+[PDF](https://github.com/opendatasicilia/informa-covid19/raw/main/risorse/informa-covid-guida.pdf){ .md-button }
+
 > Dennis Angemi et al.
 
 ## Introduzione
