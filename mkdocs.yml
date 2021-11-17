@@ -1,11 +1,11 @@
 ## Project information
-site_name: OpenDataSicilia Mkdocs-Material
-site_url: https://opendatasicilia.github.io/ods-mkdocs-material/
-site_description: Per chi vuole mettere in piedi, rapidamente e in modo semplice, un sito web basato su Material for MkDocs
+site_name: Scientific writing with markdown
+site_url: https://dennisangemi.github.io/md-latex-test/
+site_description: È possibile scrivere in markdown report scientifici?
 
 ## Repository
-repo_name: OpenDataSicilia Mkdocs-Material
-repo_url: https://github.com/opendatasicilia/ods-mkdocs-material
+repo_name: md-latex-test
+repo_url: https://github.com/dennisangemi/md-latex-test
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
