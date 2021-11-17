@@ -5,10 +5,14 @@
 ciao questa è la nostra bella introduzione
 
 # Cenni teorici
-Noi sappiamo che il secondo princpio della dinamica è $F=ma$
+Noi sappiamo che il secondo princpio della dinamica è $F=ma$.
+Questo è un diagramma delle forze e ho provato ad aggiungere un label
+
+![diagramma \label{fig:2}](https://user-images.githubusercontent.com/77018886/142263856-92837168-19c9-4888-b8c1-ac701cbc7844.png)
+
 
 # Apparato sperimentale
-costruiscilo come piace a te
+costruiscilo come piace a te ma p
 
 # Dati sperimentali
 li puoi scaricare in csv da [qui](https://raw.githubusercontent.com/dennisangemi/lab1-dfa/main/exp-1/experimental-data-1.csv)
