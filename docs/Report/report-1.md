@@ -2,7 +2,7 @@
 > Dennis Angemi et al.
 
 ## Introduzione
-ciao questa è la nostra bella introduzione
+ciao questa è la nostra bella introduzionea
 
 ## Cenni teorici
 Noi sappiamo che il secondo princpio della dinamica è $F=ma$.

@@ -5,7 +5,7 @@ hide:
 title: "OpenDataSicilia Material for MkDocs repo: 1, 2 , 3 via"
 ---
 
-# Markdown and Latex!
+# Markdown and Latex! a
 
 test inline equation $2+2=4$
 
