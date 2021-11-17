@@ -1,20 +1,20 @@
 # Relazione di laboratorio: Energia cinetica di rotazione
 > Dennis Angemi et al.
 
-# Introduzione
+## Introduzione
 ciao questa è la nostra bella introduzione
 
-# Cenni teorici
+## Cenni teorici
 Noi sappiamo che il secondo princpio della dinamica è $F=ma$.
 Questo è un diagramma delle forze e ho provato ad aggiungere un label
 
 ![diagramma \label{fig:2}](https://user-images.githubusercontent.com/77018886/142263856-92837168-19c9-4888-b8c1-ac701cbc7844.png)
 
 
-# Apparato sperimentale
+## Apparato sperimentale
 costruiscilo come piace a te ma p
 
-# Dati sperimentali
+## Dati sperimentali
 li puoi scaricare in csv da [qui](https://raw.githubusercontent.com/dennisangemi/lab1-dfa/main/exp-1/experimental-data-1.csv)
 
 | index | t1    | t2    | incertezza | udm |
@@ -40,5 +40,5 @@ li puoi scaricare in csv da [qui](https://raw.githubusercontent.com/dennisangemi
 | 19    | 1.534 | 2.015 | 0.001      | s   |
 | 20    | 1.537 | 1.996 | 0.001      | s   |
 
-# Conclusioni
+## Conclusioni
 Abbiamo scoperto nuova fisica 
