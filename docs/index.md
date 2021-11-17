@@ -16,6 +16,8 @@ Non vuole rimpiazzare la [fantastica guida ufficiale](https://squidfunk.github.i
 
 Se vuoi fare qualche ❔ **domanda**, o ❕ **proposta**, usa per favore le [**discussioni**](https://github.com/opendatasicilia/ods-mkdocs-material/discussions).
 
+## Test latex
+$2+2=4$
 
 ---
 
