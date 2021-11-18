@@ -25,7 +25,7 @@ jobs:
 #      - run: pip install click-config-file
 #      - run: pip install pytest
 #      - run: pip install mkdocs
-#      - run: pip install mkdocstrings
+      - run: pip install mkdocstrings
       - run: pip install mkdocs-click
       - run: pip install Pygments>=2.4
       - run: pip install pymdown-extensions>=9.0
