@@ -55,7 +55,7 @@ theme:
   # logo:
 
 plugins:
-- pdf-export
+#- pdf-export
 - search:
       lang: it
 #- mkdocstrings
