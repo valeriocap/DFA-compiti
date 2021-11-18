@@ -13,21 +13,13 @@ copyright: Licenza CC-BY-SA-4.0
 
 ## Social Media
 extra:
-## Come inserire i commenti di Disqus https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/#other-comment-systems
-## Crea accont e sito shortname https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-## disqus: <shortname>
-# disqus: ods-mkdocs-material
-##  ods-mkdocs-material è lo <shortname> legato a Disqus
  social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/opendatasicilia
-      name: account twitter
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/groups/opendatasicilia
-      name: gruppo facebook
+      link: https://twitter.com/dennisangemi
+      name: Twitter
     - icon: fontawesome/brands/github
-      link: https://github.com/opendatasicilia/ods-mkdocs-material
-      name: Repoisitory GitHub
+      link: https://github.com/dennisangemi
+      name: GitHub
     - icon: fontawesome/solid/rss
       link: ../feed_rss_created.xml
       name: Feed RSS
