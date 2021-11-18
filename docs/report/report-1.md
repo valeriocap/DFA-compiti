@@ -1,5 +1,5 @@
 # Relazione di laboratorio: Energia cinetica di rotazione
-[PDF](https://github.com/opendatasicilia/informa-covid19/raw/main/risorse/informa-covid-guida.pdf){ .md-button } [Data](https://github.com/dennisangemi/lab1-dfa/tree/main/exp-1
+[PDF](https://www.google.it){ .md-button } [Data](https://github.com/dennisangemi/lab1-dfa/tree/main/exp-1
 ){ .md-button }
 
 ---
