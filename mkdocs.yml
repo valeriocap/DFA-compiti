@@ -137,6 +137,7 @@ nav:
     - Relazioni:
         - Home: report/index.md
         - Relazione 1: report/report-1.md
+        - Relazione 2: report/report-2.md
 
     - About:
         - OpenDataSicilia: ods.md
