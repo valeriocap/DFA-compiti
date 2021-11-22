@@ -44,7 +44,7 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
+      primary: blue
       accent: teal
       toggle:
         icon: material/weather-sunny
