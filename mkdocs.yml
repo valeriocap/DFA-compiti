@@ -38,14 +38,14 @@ theme:
 
   palette:
     - scheme: default
-      primary: indigo
-      accent: teal
+      primary: teal
+      accent: deep purple
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: green
+      accent: deep purple
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
