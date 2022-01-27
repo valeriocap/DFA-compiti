@@ -135,10 +135,11 @@ extra_css:
 nav:
     - Home: index.md
 
-    - Relazioni:
-        - Home: report/index.md
-        - Relazione 1: report/report-1.md
-        - Relazione 2: report/report-2.md
+    - Fisica 1:
+        - Home: fis1/index.md
+        - 2012':
+           - fis1/2012/2012-01-01.md
+           - fis1/2012/2012-02-01.md
 
     - About:
         - OpenDataSicilia: ods.md
