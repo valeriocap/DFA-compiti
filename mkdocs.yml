@@ -39,13 +39,13 @@ theme:
   palette:
     - scheme: default
       primary: teal
-      accent: deep purple
+      accent: teal
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       primary: green
-      accent: deep purple
+      accent: green
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
