@@ -2,16 +2,12 @@
 hide:
   - navigation
   - toc
-title: "OpenDataSicilia Material for MkDocs repo: 1, 2 , 3 via"
+title: "DFA-UniCT Archivio testi"
 ---
 
-# Markdown and Latex! a
+# Archivio testi esami DFA - UniCT
 
-test inline equation $2+2=4$
+In questo sito saranno raccolti i testi di alcuni esami sostenuti dagli studenti e dalle studentesse del Dipartimento di Fisica e Astronomia dell' Università di Catania. I testi sono divisi per anno e materie. Si consiglia di utilizzare la bara di ricerca per trovare i testi di interesse. Qualora alcune soluzioni non dovessero essere presenti, si prega di valutare la possibilità di contribuire al progetto fornendo lo svolgimento in LaTeX ed effettuando l'opportuno caricamento GitHub.
 
-test new line equation
-
-$$K=\frac{1}{2}mv^2$$
-
-# Credit
-Forked from [Open Data Sicilia](https://github.com/opendatasicilia/ods-mkdocs-material) 
+## Credit
+Dennis Angemi, forked from [Open Data Sicilia](https://github.com/opendatasicilia/ods-mkdocs-material) 

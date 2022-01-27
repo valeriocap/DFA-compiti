@@ -33,7 +33,7 @@ theme:
     - navigation.top
     #- navigation.instant
     - navigation.tabs
-    - content.code.annotate # 
+    - content.code.annotate 
 
 
   palette:
@@ -131,7 +131,6 @@ extra_css:
 
 
 ## Page tree
-
 nav:
     - Home: index.md
 
