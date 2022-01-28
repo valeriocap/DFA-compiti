@@ -148,6 +148,8 @@ nav:
         - 2013:
            - fis1/2013/2013-01-01.md
            - fis1/2013/2013-02-01.md
+        - 2021:
+           - fis1/2021/2021-02-03.md
 
     - About:
         - OpenDataSicilia: ods.md
