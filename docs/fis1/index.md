@@ -4,4 +4,5 @@ Consulta tutti i testi dei compiti di Fisica Generale 1 e le relative soluzioni 
 
 Non tutti gli esercizi sono dotati di svolgimento quindi ti invitiamo a contribuire facendo click sull'icona di modifica in alto a destra. LaTeX è supportato (e.g. $F=ma$). Grazie
 
-Sito del prof. Ruffino https://nanostar.jimdofree.com/didattica-fisica-1/
+Fai click per visitare il sito del prof. Ruffino 
+[NANOSTAR](https://nanostar.jimdofree.com/didattica-fisica-1/){ .md-button }
