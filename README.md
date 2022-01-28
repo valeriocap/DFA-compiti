@@ -1,6 +1,5 @@
-# Scientific writing with markdown
+# Test archivio esami scritti del DFA-UniCT
+Dipartimento di Fisica e Astronomia dell'Università di Catania
 
-## Credit
-[![logo ods](docs/img/logo.png)](http://opendatasicilia.it/)
-
-Forked from [opendatasicilia/ods-mkdocs-material](https://github.com/opendatasicilia/ods-mkdocs-material)
+### Credit
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), forked from [opendatasicilia/ods-mkdocs-material](https://github.com/opendatasicilia/ods-mkdocs-material)
