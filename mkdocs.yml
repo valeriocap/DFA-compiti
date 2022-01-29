@@ -55,11 +55,11 @@ theme:
   # logo:
 
 plugins:
-  - tags
-#- pdf-export
-#- mkdocstrings
-#- autolinks
-#- macros
+#  - tags
+#  - pdf-export
+#  - mkdocstrings
+#  - autolinks
+#  - macros
   - search:
         lang: it
   - rss:
