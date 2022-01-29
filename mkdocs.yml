@@ -55,13 +55,13 @@ theme:
   # logo:
 
 plugins:
+  - tags
 #- pdf-export
 #- mkdocstrings
 #- autolinks
 #- macros
 - search:
       lang: it
-- tags
 - rss:
     abstract_chars_count: 160
     date_from_meta:
