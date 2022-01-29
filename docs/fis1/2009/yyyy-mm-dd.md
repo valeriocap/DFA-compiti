@@ -10,13 +10,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et quam lorem. Se
 - Calcola sapien iaculis eleifend interdum. Nunc facilisis aliquam lectus
     
 ??? check "Visualizza le soluzioni"
-    - 2.47 m/s
-    - $8 \cdot 10^{25} \; \; m/s$
-    - 9.8 $m/s^2$
+    - test 9.8 $m/s^2$
+    - Non ancora disponibile
+    - Non ancora disponibile
 
 ??? question "Visualizza lo svolgimento"
-    Qui verranno riportati gli step principali per la risoluzione dell'esercizio (in LaTeX). Esempio:
-    $$ F=ma \; \; M=I α $$
+    - Qui sarà possibile riportare gli step principali per la risoluzione dell'esercizio (in LaTeX). Esempio: `$$ F=ma \; \; M=I α $$` restituisce $$ F=ma \; \; M=I α $$
+    - Non ancora disponibile
+    - Non ancora disponibile
 
 ## Esercizio n.2
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et quam lorem. Sed rhoncus, lorem non consectetur lacinia, nulla felis venenatis urna, at posuere enim massa ut metus. Phasellus pulvinar sapien iaculis eleifend interdum. Nunc facilisis aliquam lectus, quis consectetur odio sagittis eget. Maecenas molestie interdum porta. Aliquam interdum eros id maximus posuere. Vivamus vitae nunc eros.
@@ -28,13 +29,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et quam lorem. Se
 - Calcola sapien iaculis eleifend interdum. Nunc facilisis aliquam lectus
     
 ??? check "Visualizza le soluzioni"
-    - 2.47 m/s
-    - $8 \cdot 10^{25} \; \; m/s$
-    - 9.8 $m/s^2$
+    - test 9.8 $m/s^2$
+    - Non ancora disponibile
+    - Non ancora disponibile
 
 ??? question "Visualizza lo svolgimento"
-    Qui verranno riportati gli step principali per la risoluzione dell'esercizio (in LaTeX). Esempio:
-    $$ F=ma \; \; M=I α $$
+    - Qui sarà possibile riportare gli step principali per la risoluzione dell'esercizio (in LaTeX). Esempio: `$$ F=ma \; \; M=I α $$` restituisce $$ F=ma \; \; M=I α $$
+    - Non ancora disponibile
+    - Non ancora disponibile
 
 ## Esercizio n.3
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et quam lorem. Sed rhoncus, lorem non consectetur lacinia, nulla felis venenatis urna, at posuere enim massa ut metus. Phasellus pulvinar sapien iaculis eleifend interdum. Nunc facilisis aliquam lectus, quis consectetur odio sagittis eget. Maecenas molestie interdum porta. Aliquam interdum eros id maximus posuere. Vivamus vitae nunc eros.
@@ -44,10 +46,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et quam lorem. Se
 - Calcola sapien iaculis eleifend interdum. Nunc facilisis aliquam lectus
     
 ??? check "Visualizza le soluzioni"
-    - 2.47 m/s
-    - $8 \cdot 10^{25} \; \; m/s$
-    - 9.8 $m/s^2$
+    - test 9.8 $m/s^2$
+    - Non ancora disponibile
+    - Non ancora disponibile
 
 ??? question "Visualizza lo svolgimento"
-    Qui verranno riportati gli step principali per la risoluzione dell'esercizio (in LaTeX). Esempio:
-    $$ F=ma \; \; M=I α $$
+    - Qui sarà possibile riportare gli step principali per la risoluzione dell'esercizio (in LaTeX). Esempio: `$$ F=ma \; \; M=I α $$` restituisce $$ F=ma \; \; M=I α $$
+    - Non ancora disponibile
+    - Non ancora disponibile
