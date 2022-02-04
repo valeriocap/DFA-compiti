@@ -35,7 +35,6 @@ theme:
     - navigation.tabs
     - content.code.annotate 
 
-
   palette:
     - scheme: default
       primary: teal
@@ -49,10 +48,11 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
- # favicon:
+
   icon:
     repo: fontawesome/brands/github
-  # logo:
+  logo: assets/logo_ellipse.png
+  favicon: assets/logo_ellipse.png
 
 plugins:
 #  - tags
