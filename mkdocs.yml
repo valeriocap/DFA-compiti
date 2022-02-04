@@ -51,7 +51,8 @@ theme:
 
   icon:
     repo: fontawesome/brands/github
-  logo: material/file-document-edit-outline
+    logo: material/file-document-edit
+   
   favicon: assets/logo_ellipse.png
 
 plugins:
