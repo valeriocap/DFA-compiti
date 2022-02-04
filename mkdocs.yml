@@ -53,7 +53,7 @@ theme:
     repo: fontawesome/brands/git-alt
     logo: material/file-document-edit
    
-  favicon: assets/logo_ellipse.png
+  favicon: assets/logo-circle.png
 
 plugins:
 #  - tags
