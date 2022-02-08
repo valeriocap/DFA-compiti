@@ -193,29 +193,28 @@ nav:
         - 2021:
            - fis1/2021/2021-02-03.md
         - temp:
-           - fis1/temp/01092021.md
-           - fis1/temp/03022021.md
-           - fis1/temp/05102011.md
-           - fis1/temp/09072014.md
-           - fis1/temp/10092014.md
-           - fis1/temp/11022015.md
-           - fis1/temp/12022014.md
-           - fis1/temp/14072021.md
-           - fis1/temp/17022021.md
            - fis1/temp/2009-2010.md
            - fis1/temp/2010-2011.md
+           - fis1/temp/2011-10-05.md
            - fis1/temp/2011-2012.md
            - fis1/temp/2012-2013.md
+           - fis1/temp/2014-02-12.md
+           - fis1/temp/2014-02-26.md
+           - fis1/temp/2014-06-25.md
+           - fis1/temp/2014-07-09.md
+           - fis1/temp/2014-09-10.md
+           - fis1/temp/2015-02-11.md
+           - fis1/temp/2015-02-26.md
            - fis1/temp/2015-2016.md
            - fis1/temp/2016-2018.md
            - fis1/temp/2018-2019.md
+           - fis1/temp/2019-07-14.md
            - fis1/temp/2019-2020.md
-           - fis1/temp/23062021.md
-           - fis1/temp/25062014.md
-           - fis1/temp/26022014.md
-           - fis1/temp/26022015.md
-           - fis1/temp/31032021.md
-           - fis1/temp/
+           - fis1/temp/2021-02-03.md
+           - fis1/temp/2021-02-17.md
+           - fis1/temp/2021-03-31.md
+           - fis1/temp/2021-06-23.md
+           - fis1/temp/2021-09-01.md
     - About:
         - OpenDataSicilia: ods.md
         - Privacy: privacy.md
