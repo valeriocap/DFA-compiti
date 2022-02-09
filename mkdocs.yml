@@ -51,8 +51,8 @@ theme:
 
   icon:
     repo: fontawesome/brands/git-alt
-    logo: material/file-document-edit
-   
+#    logo: material/file-document-edit
+  logo: assets/logo-circle.png
   favicon: assets/logo-circle.png
 
 plugins:
