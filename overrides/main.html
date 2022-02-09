@@ -19,9 +19,9 @@
         <meta property="og:url" content="{{ page.canonical_url }}" />
 
     {% if page and page.meta and page.meta.og_image %}
-        <meta property="og:image:url" content="{{ config.site_url ~ 'img/' ~ page.meta.og_image }}" />
+        <meta property="og:image:url" content="{{ config.site_url ~ 'assets/' ~ page.meta.og_image }}" />
     {% else %}
-        <meta property="og:image:url" content="{{ config.site_url ~ 'img/openGraph.png' }}" />
+        <meta property="og:image:url" content="{{ config.site_url ~ 'assets/openGraph.png' }}" />
     {% endif %}
 
     {% if page and page.meta and page.meta.og_image_type %}
@@ -54,9 +54,9 @@
     {% endif %}
 
     {% if page and page.meta and page.meta.og_image %}
-        <meta property="twitter:image" content="{{ config.site_url ~ 'img/' ~ page.meta.og_image }}">
+        <meta property="twitter:image" content="{{ config.site_url ~ 'assets/' ~ page.meta.og_image }}">
     {% else %}
-        <meta property="twitter:image" content="{{ config.site_url ~ 'img/openGraph.png' }}">
+        <meta property="twitter:image" content="{{ config.site_url ~ 'assets/openGraph.png' }}">
     {% endif %}
 
         <meta property="og:locale" content="it-IT" />
