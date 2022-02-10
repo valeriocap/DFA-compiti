@@ -138,8 +138,6 @@ nav:
 
     - Fisica 1:
         - Home: fisica-1/index.md
-        - 2009:
-           - fisica-1/2009/
         - 2010:
            - fisica-1/2010/2010-02-10.md
            - fisica-1/2010/2010-02-24.md
