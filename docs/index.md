@@ -2,7 +2,7 @@
 hide:
   - navigation
   - toc
-title: "DFA-UniCT Archivio testi"
+#title: "DFA-UniCT Archivio testi"
 ---
 
 # Archivio testi esami DFA - UniCT
