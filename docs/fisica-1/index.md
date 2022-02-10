@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Fisica Generale 1
 Consulta tutti i testi dei compiti di Fisica Generale 1 e le relative soluzioni a partire dall'anno 2010. Fai click sull'anno di tuo interesse dal menù laterale sinistro oppure utilizza la barra di ricerca e digita le prime parole dell'esercizio. Alla fine di ogni pagina è presente un tasto per effettuare il download in PDF del file originale. 
 

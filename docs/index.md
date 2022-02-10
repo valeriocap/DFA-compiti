@@ -2,7 +2,6 @@
 hide:
   - navigation
   - toc
-#title: "DFA-UniCT Archivio testi"
 ---
 
 # Archivio testi esami DFA - UniCT
@@ -11,5 +10,5 @@ In questo sito saranno raccolti i testi di alcuni esami sostenuti dagli studenti
 
 [Fisica Generale 1 :material-arrow-right:](fisica-1/index.md){ .md-button }
 
-## Credit
-Dennis Angemi, forked from [Open Data Sicilia](https://github.com/opendatasicilia/ods-mkdocs-material) 
+## Credits
+[Dennis Angemi](https://twitter.com/DennisAngemi), forked from [Open Data Sicilia](https://github.com/opendatasicilia/ods-mkdocs-material) 
