@@ -8,7 +8,7 @@ Consulta tutti i testi dei compiti di Fisica Generale 1 e le relative soluzioni 
 
 !!! info
 
-    Ad ogni problema è associato un link: per ottenerlo è sufficiente fare click sull'icona :material-arrow-left-bottom: relativa al problema di interesse 
+    Ad ogni problema è associato un link: per ottenerlo è sufficiente fare click sull'icona :material-arrow-left-bottom: posizionata alla destra nel numero del problema.
 
 
 ## Come contribuire
