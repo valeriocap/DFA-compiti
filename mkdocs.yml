@@ -4,7 +4,7 @@ site_url: https://unict-dmi.github.io/DFA-compiti/
 site_description: Compiti scritti del Dipartimento di Fisica e Astronomia dell'Università degli Studi di Catania
 
 ## Repository
-repo_name: mt4mkd-ltx
+repo_name: DFA-compiti
 repo_url: https://github.com/unict-dmi/DFA-compiti
 edit_uri: edit/main/docs/ #disables edit button
 
