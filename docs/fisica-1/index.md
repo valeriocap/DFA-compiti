@@ -17,7 +17,7 @@ Uno degli obiettivi di questo progetto è quello di pubblicare non solo le soluz
 ## Stats
 <iframe width="504" height="107" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQEvRFl382ojo_NKLWIoLO03T_WwIKiHMCSeOiS_G_WFyjg6km2WwHBwqZ-mVORydQR4ckmKThjN_17/pubchart?oid=195186221&amp;format=interactive"></iframe>
 
-<iframe width="151" height="93" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQEvRFl382ojo_NKLWIoLO03T_WwIKiHMCSeOiS_G_WFyjg6km2WwHBwqZ-mVORydQR4ckmKThjN_17/pubchart?oid=1443313880&amp;format=interactive"></iframe>
+<iframe width="151" height="90" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQEvRFl382ojo_NKLWIoLO03T_WwIKiHMCSeOiS_G_WFyjg6km2WwHBwqZ-mVORydQR4ckmKThjN_17/pubchart?oid=1443313880&amp;format=interactive"></iframe>
 
 ## Ringraziamenti
 Si ringrazia il prof. Ruffino per aver curato l'archivio dei testi in formato PDF nel suo sito. 
