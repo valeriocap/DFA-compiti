@@ -13,19 +13,20 @@ copyright: Licenza CC-BY-SA-4.0
 
 ## Social Media e Analytics
 extra:
- social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/DfaUnict
-      name: Twitter
-    - icon: fontawesome/brands/github
-      link: https://github.com/UNICT-DMI
-      name: GitHub
-    - icon: fontawesome/solid/rss
-      link: ../feed_rss_created.xml
-      name: Feed RSS
   analytics:
     provider: google
     property: G-VKFNKR4L49
+  social:
+#    - icon: fontawesome/brands/twitter
+#      link: https://twitter.com/DfaUnict
+#      name: Twitter
+    - icon: fontawesome/brands/github
+      link: https://github.com/UNICT-DMI/DFA-compiti
+      name: GitHub
+#    - icon: fontawesome/solid/rss
+#      link: ../feed_rss_created.xml
+#      name: Feed RSS
+
 
 # Configuration
 theme:
