@@ -11,7 +11,7 @@ edit_uri: edit/main/docs/ #disables edit button
 # Copyright
 copyright: Licenza CC-BY-SA-4.0
 
-## Social Media
+## Social Media e Analytics
 extra:
  social:
     - icon: fontawesome/brands/twitter
@@ -23,6 +23,9 @@ extra:
     - icon: fontawesome/solid/rss
       link: ../feed_rss_created.xml
       name: Feed RSS
+  analytics:
+    provider: google
+    property: G-VKFNKR4L49
 
 # Configuration
 theme:
